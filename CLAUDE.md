@@ -54,7 +54,7 @@ Full ImGUI integration using Static Hermes FFI:
 - Real-time rendering with Sokol + DearImGUI
 - Auto-generated ImGUI bindings (500KB+ of FFI declarations)
 - Compiled to native code for maximum performance
-- See [llm.md](llm.md) for detailed architecture documentation
+- See [README.md](README.md) for architecture documentation
 
 ## Project Structure
 
